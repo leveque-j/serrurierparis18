@@ -1,0 +1,5 @@
+remote_theme: barryclark/jekyll-now
+name: Serrurier Paris 18
+plugins:
+  - jekyll-seo-tag
+title: Serrurier Paris 18
