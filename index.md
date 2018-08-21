@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Serrurier Paris 18 PAS CHER - dépannage de serrurerie à Paris 18e arrondissement
 description: Artisan indépendant qualifié située en plein cœur de la ville pour votre dépannage de serrure, porte blindée, verrou et coffre-fort.
 ---
