@@ -1,7 +1,6 @@
-remote_theme: chesterhow/tale
+remote_theme: Simpleyyt/jekyll-theme-next
 name: Serrurier Paris 18
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
-  - jekyll-remote-theme
-title: Serrurier Paris 18 PAS CHER - dépannage de serrurerie à Paris 18e arrondissement
+title: Serrurier Paris 18 pas cher - dépannage de serrurerie à Paris 18e arrondissement
